@@ -3,9 +3,9 @@
  * JavaScript Independant Utilities
  *
  * @author      Thomas Josseau
- * @version     0.1.0
- * @date        2014.03.15
- * @link        https://github.com/tjosseau/inde-utils
+ * @version     0.1.2
+ * @date        2014.03.24
+ * @link        https://github.com/tjosseau/JS-Independant-Utilities
  *
  * @description
  *      Tiny independant utilities to copy/paste for your libraries.
